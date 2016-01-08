@@ -10,6 +10,8 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
+{{ site.baseurl }}/images/us.jpg
+
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@limetreecarpentry.com](mailto:info@limetreecarpentry.com)
