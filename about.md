@@ -10,7 +10,7 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-{{ site.baseurl }}/images/us.jpg
+[]({{ site.baseurl }}/images/us.jpg)
 
 ### Contact me
 
